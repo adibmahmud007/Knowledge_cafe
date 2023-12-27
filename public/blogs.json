@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.postimg.cc/HsbFy5F4/2.png",
+      "title": "The secret garden",
+      "author": "Adib mahmud",
+      "author_img": "https://i.postimg.cc/xTgyh1mV/boy1.png",
+      "posted_date": "2023-01-28",
+      "reading_time": 15,
+      "hashtag": ["mystery", "adventure"]
+    },
+    {
+      "id": 2,
+      "cover_img": "cover2.jpg",
+      "title": "lost in space",
+      "author": "jane_smith",
+      "author_img": "author2.jpg",
+      "posted_date": "2023-01-29",
+      "reading_time": 20,
+      "hashtag": ["science_fiction", "exploration"]
+    },
+    {
+      "id": 3,
+      "cover_img": "cover3.jpg",
+      "title": "whispers in the wind",
+      "author": "sam_jackson",
+      "author_img": "author3.jpg",
+      "posted_date": "2023-01-30",
+      "reading_time": 10,
+      "hashtag": ["romance", "mystery"]
+    },
+    {
+      "id": 4,
+      "cover_img": "cover4.jpg",
+      "title": "timeless echoes",
+      "author": "alex_miller",
+      "author_img": "author4.jpg",
+      "posted_date": "2023-01-31",
+      "reading_time": 25,
+      "hashtag": ["fantasy", "time_travel"]
+    },
+    {
+      "id": 5,
+      "cover_img": "cover5.jpg",
+      "title": "city of illusions",
+      "author": "emily_white",
+      "author_img": "author5.jpg",
+      "posted_date": "2023-02-01",
+      "reading_time": 18,
+      "hashtag": ["dystopian", "mystery"]
+    }
+  ]
+  
